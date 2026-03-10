@@ -5,4 +5,4 @@ export default {
     // 自動處理瀏覽器前綴，確保在各種手機瀏覽器上顯示正常
     autoprefixer: {},
   },
-}git add .
+}
